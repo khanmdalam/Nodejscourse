@@ -1,0 +1,16 @@
+{
+  "name": "harry",
+  "version": "1.0.0",
+  "description": "its amazign package",
+  "license": "ISC",
+  "author": "Harry",
+  "type": "commonjs",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodeone": "^1.0.0"
+  }
+}
